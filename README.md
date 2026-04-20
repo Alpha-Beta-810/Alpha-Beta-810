@@ -1,6 +1,6 @@
-# **<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sarat Devarakonda**  
-💻 **Final Year Computer Science & Engineering Student @ Manipal Institute of Technology**  
-🤖 **Pursuing Minor Specialization in Computational Intelligence**  
+# **<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Saratchandra Mouli Devarakonda**  
+💻 **Final Year Computer & Communication Engineering Student @ Manipal Institute of Technology**  
+🤖 **Pursuing Minor Specialization in Cybersecurity**  
 🚀 **Passionate about Artificial Intelligence & Machine Learning**  
 
 ✨ I love building intelligent systems that combine **AI + Machine Learning** to solve real-world problems.  

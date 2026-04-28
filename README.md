@@ -206,7 +206,7 @@ Flutter app for table reservation database management
 ### 📊 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvikbarbhai&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha-Beta-810&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -229,7 +229,7 @@ Flutter app for table reservation database management
 
 ## 🗂️ Top Languages  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikbarbhai&langs_count=10&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Beta-810&langs_count=10&layout=compact&theme=radical" alt="Top Languages" />
 
 
 ---

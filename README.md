@@ -197,8 +197,8 @@ Flutter app for table reservation database management
 ### ⚡ GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rutvikbarbhai&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikbarbhai&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alpha-Beta-810&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Beta-810&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---

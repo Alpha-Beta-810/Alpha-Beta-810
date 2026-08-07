@@ -52,20 +52,54 @@
 
 ## 💼 Professional Experience
 
-### Cybersecurity Intern
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CSIR-Logo-With-Tagline-Seleceted-Bilingual.png/960px-CSIR-Logo-With-Tagline-Seleceted-Bilingual.png" alt="CSIR" width="100" style="vertical-align:middle; margin-right:8px;" /> [CSIR – Fourth Paradigm Institute](https://www.csir4pi.res.in/)  Feb 2026 – May 2026 
-- Built a Django-based research/internship application portal (N.S.W.-v7.0) with Role-Based Access Control for applicant review workflows.
-- Implemented server-side validation, secure resume uploads, and automated PDF/CSV report generation for admins.
+<div style="display:flex; flex-direction:column; gap:12px;">
 
-### Cybersecurity Intern
-<img src="https://jkadworld.com/wp-content/uploads/2024/09/DRDO.webp" alt="DRDL" width="100" style="vertical-align:middle; margin-right:8px;" /> [DRDL, DRDO](https://www.drdo.gov.in/)  Jun 2025 – Jul 2025 
-- Developed a hybrid phishing detection pipeline (PhishGuard-v6.2) combining a calibrated Scikit-learn classifier with VirusTotal/WHOIS threat intelligence and email/visual-similarity checks.
-- Validated model performance across a 27-case test suite, documenting precision and recall results for internal review.
+  <div style="display:flex; justify-content:space-between; align-items:center;">
+    <div>
+      <h3 style="margin:0 0 4px 0;">Cybersecurity Intern</h3>
+      <a href="https://www.csir4pi.res.in/">CSIR – Fourth Paradigm Institute</a> &nbsp;&nbsp;&nbsp; Feb 2026 – May 2026
+    </div>
+    <div>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CSIR-Logo-With-Tagline-Seleceted-Bilingual.png/960px-CSIR-Logo-With-Tagline-Seleceted-Bilingual.png" alt="CSIR" width="48" style="vertical-align:middle;" />
+    </div>
+  </div>
 
-### Full Stack Intern
-<img src="https://www.seekpng.com/png/detail/271-2710096_vizag-steel-plant-visakhapatnam-vizag-steel-logo-png.png" alt="Visakhapatnam Steel Plant" width="100" style="vertical-align:middle; margin-right:8px;" /> [Visakhapatnam Steel Plant](https://www.vizagsteel.com/)  Jun 2024 – Jul 2024 
-- Built a Laravel-based delay analytics dashboard (DelayOps-v1.3) with drill-down filtering to monitor downtime events.
-- Designed MySQL schemas and API-served, paginated tables for high-volume operational log reporting.
+  <ul>
+    <li>Built a Django-based research/internship application portal (N.S.W.-v7.0) with Role-Based Access Control for applicant review workflows.</li>
+    <li>Implemented server-side validation, secure resume uploads, and automated PDF/CSV report generation for admins.</li>
+  </ul>
+
+  <div style="display:flex; justify-content:space-between; align-items:center;">
+    <div>
+      <h3 style="margin:0 0 4px 0;">Cybersecurity Intern</h3>
+      <a href="https://www.drdo.gov.in/">DRDL, DRDO</a> &nbsp;&nbsp;&nbsp; Jun 2025 – Jul 2025
+    </div>
+    <div>
+      <img src="REPLACE_WITH_DRDL_URL" alt="DRDL" width="48" style="vertical-align:middle;" />
+    </div>
+  </div>
+
+  <ul>
+    <li>Developed a hybrid phishing detection pipeline (PhishGuard-v6.2) combining a calibrated Scikit-learn classifier with VirusTotal/WHOIS threat intelligence and email/visual-similarity checks.</li>
+    <li>Validated model performance across a 27-case test suite, documenting precision and recall results for internal review.</li>
+  </ul>
+
+  <div style="display:flex; justify-content:space-between; align-items:center;">
+    <div>
+      <h3 style="margin:0 0 4px 0;">Full Stack Intern</h3>
+      <a href="https://www.vizagsteel.com/">Visakhapatnam Steel Plant</a> &nbsp;&nbsp;&nbsp; Jun 2024 – Jul 2024
+    </div>
+    <div>
+      <img src="https://www.seekpng.com/png/detail/271-2710096_vizag-steel-plant-visakhapatnam-vizag-steel-logo-png.png" alt="Visakhapatnam Steel Plant" width="48" style="vertical-align:middle;" />
+    </div>
+  </div>
+
+  <ul>
+    <li>Built a Laravel-based delay analytics dashboard (DelayOps-v1.3) with drill-down filtering to monitor downtime events.</li>
+    <li>Designed MySQL schemas and API-served, paginated tables for high-volume operational log reporting.</li>
+  </ul>
+
+</div>
 
 ## 🔧 Featured Projects  
 

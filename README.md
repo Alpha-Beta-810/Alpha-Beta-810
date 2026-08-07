@@ -58,7 +58,7 @@
 - Implemented server-side validation, secure resume uploads, and automated PDF/CSV report generation for admins.
 
 ### Cybersecurity Intern
-<img src="[REPLACE_WITH_DRDL_URL](https://jkadworld.com/wp-content/uploads/2024/09/DRDO.webp)" alt="DRDL" width="28" style="vertical-align:middle; margin-right:8px;" /> [DRDL, DRDO](https://www.drdo.gov.in/)  Jun 2025 – Jul 2025 
+<img src="https://jkadworld.com/wp-content/uploads/2024/09/DRDO.webp" alt="DRDL" width="28" style="vertical-align:middle; margin-right:8px;" /> [DRDL, DRDO](https://www.drdo.gov.in/)  Jun 2025 – Jul 2025 
 - Developed a hybrid phishing detection pipeline (PhishGuard-v6.2) combining a calibrated Scikit-learn classifier with VirusTotal/WHOIS threat intelligence and email/visual-similarity checks.
 - Validated model performance across a 27-case test suite, documenting precision and recall results for internal review.
 

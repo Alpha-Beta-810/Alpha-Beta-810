@@ -60,7 +60,7 @@
       <a href="https://www.csir4pi.res.in/">CSIR – Fourth Paradigm Institute</a> &nbsp;&nbsp;&nbsp; Feb 2026 – May 2026
     </div>
     <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CSIR-Logo-With-Tagline-Seleceted-Bilingual.png/960px-CSIR-Logo-With-Tagline-Seleceted-Bilingual.png" alt="CSIR" width="48" style="vertical-align:middle;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CSIR-Logo-With-Tagline-Seleceted-Bilingual.png/960px-CSIR-Logo-With-Tagline-Seleceted-Bilingual.png" alt="CSIR" width="48" style="horizontal-align:right;" />
     </div>
   </div>
 

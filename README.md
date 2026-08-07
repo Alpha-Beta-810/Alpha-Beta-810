@@ -66,45 +66,72 @@ composite features.
 - Automated an oscillator-based signal-detection framework, achieving 5× faster feature extraction.
 - Collaborated with research leads to integrate structural and statistical indicators into production-grade models.
 
+### Cybersecurity Intern
+[CSIR – Fourth Paradigm Institute](https://www.csir4pi.res.in/)  Feb 2026 – May 2026 
+- Built a Django-based research/internship application portal (N.S.W.-v7.0) with Role-Based Access Control for applicant review workflows.
+- Implemented server-side validation, secure resume uploads, and automated PDF/CSV report generation for admins.
+
+### Engineering Analyst Intern
+[DRDL, DRDO](https://www.drdo.gov.in/)  Jun 2025 – Jul 2025 
+- Developed a hybrid phishing detection pipeline (PhishGuard-v6.2) combining a calibrated Scikit-learn classifier with VirusTotal/WHOIS threat intelligence and email/visual-similarity checks.
+- Validated model performance across a 27-case test suite, documenting precision and recall results for internal review.
+
 ### Software Developer Intern  
 [JPMorgan Chase](https://www.jpmorganchase.com/)  Jun 2024 – Jul 2024 
 - 🌐 **HTTP Request Tracking:** Tracked and logged HTTP requests and responses (URLs, headers, payloads) into a secure **MySQL database** using **Java & Spring Boot**.  
 - 📊 **Data Visualization Dashboard:** Created a web dashboard with **Chart.js**, displaying metrics such as number of requests per domain and total data size transferred.  
 - 🔐 **Security & Authentication:** Implemented **user authentication** and **data encryption** with **Spring Security** to ensure privacy and controlled dashboard access.
 
-## 🌟 Featured Projects  
+### Engineering Analyst Intern
+[Visakhapatnam Steel Plant](https://www.vizagsteel.com/)  Jun 2024 – Jul 2024 
+- Built a Laravel-based delay analytics dashboard (DelayOps-v1.3) with drill-down filtering to monitor downtime events.
+- Designed MySQL schemas and API-served, paginated tables for high-volume operational log reporting.
 
-###  <img src="https://github.com/user-attachments/assets/8f09f616-c687-48a1-8a30-76dffda656b9" width="28" style="position: relative; top: 3px;"/>  Decision-Tree-Based-Trade-Pattern-Mining-Using-Renko-Dataset (2026)
+## 🔧 Featured Projects  
 
-Leakage-safe feature engineering, decision tree based clustering, interpretable rule extraction, and rigorous multi-stage validation using renko dataset. The workflow systematically reduces raw features into high-quality, production-ready trading patterns, emphasizing explainability, robustness, and out of sample reliability.
+### 💼 N.S.W. – Research & Internship Application Portal (2026)
 
+A Django-based portal for managing academic internship and thesis applications, built during a Cybersecurity Internship at CSIR – Fourth Paradigm Institute. [[GitHub]](https://github.com/Alpha-Beta-810/N.S.W.-v7.0)
 
-- **🛠️ Built an end-to-end quantitative ML pipeline to transform raw financial data into interpretable and production-ready trading patterns using Renko datasets**
-- **🧠 Engineered leakage-safe features with multi-stage reduction (190 → 50 features) ensuring robustness, reduced overfitting, and strong out-of-sample performance**
-- **🌳 Trained a decision tree–based clustering model generating 195 pattern clusters and extracted 42 high-confidence, rule-based trading signals**
+- **🔐 Implemented Role-Based Access Control (RBAC) separating superadmin and reviewer permissions across the applicant review workflow**
+- **📝 Built a dynamic applicant form with client- and server-side validation, including automated project-duration and PhD vs. UG/PG eligibility logic**
+- **📄 Delivered an admin review workflow with CSV/PDF export (ReportLab) and secure resume upload handling**
 
-### 🤖 AI Powered Healthcare Operations Design Automation Using n8n (2026)
+**Tech Stack:** `Python` `Django` `SQLite` `PostgreSQL` `Bootstrap 5` `ReportLab`
 
-An AI-driven healthcare workflow built with n8n that automates insurance eligibility checks and pre-authorization using LLMs, APIs, and event-based orchestration.
+### 🔍 MailGlass – Hybrid Phishing Email Detection System (2026)
 
-<img 
-  src="https://github.com/user-attachments/assets/11cefc5b-2517-402f-8892-0dda65a771a9" 
-  width="200" 
-  align="right" 
-  style="margin-left: 30px; margin-top: 30px; margin-bottom: 30px;"
-/>
+An AI-powered email threat-analysis platform combining blacklist-based checks (whitelist, PhishTank, VirusTotal) with an ML fallback classifier and domain intelligence. [[GitHub]](https://github.com/Alpha-Beta-810/MailGlass-v3.1)
 
+- **🧠 Combined whitelist/PhishTank/VirusTotal blacklist checks with a Random Forest ML fallback classifier and a weighted, explainable risk score**
+- **🌍 Added WHOIS domain-age lookups plus IDN/homograph and typosquat detection for look-alike brand domains**
+- **📜 Introduced persistent SQLite scan history (v3.1) with a dashboard to browse, filter, and export past scans as CSV/JSON**
 
-- **🤖 Automated insurance pre-authorization using n8n and AI, cutting manual effort by 65%.**
-- **🔄 Orchestrated real-time eligibility checks with AI-generated clinical justifications for faster submissions.**
-- **🗄️ Enabled approval tracking, proactive alerts, and operational analytics using PostgreSQL.**
+**Tech Stack:** `Python` `Flask` `Scikit-learn` `SQLite` `WHOIS` `PhishTank API` `VirusTotal API`
 
-**Tech Stack:** `n8n` `OpenAI (LLMs)` `PostgreSQL` `REST APIs` `Webhooks` `Workflow Automation` `Event-driven Architecture` 
+### 🛡️ PhishGuard – Hybrid Phishing Detection System (2025)
 
+A hybrid threat-detection engine built during an Engineering Analyst Internship at DRDL, DRDO. [[GitHub]](https://github.com/Alpha-Beta-810/PhishGuard-v6.2)
+
+- **🧠 Combined a calibrated Random Forest classifier with live VirusTotal/WHOIS intelligence, plus email-scan and brand visual-similarity fingerprinting**
+- **✅ Validated against a 27-case test suite, achieving 100% detection on phishing/typosquat samples**
+- **🔌 Exposed REST endpoints for single, batch, and email analysis**
+
+**Tech Stack:** `Python` `Flask` `Scikit-learn` `WHOIS API` `VirusTotal API`
+
+### ⚡ DelayOps – Delay Analytics Dashboard (2024)
+
+A Laravel-based operations dashboard for delay monitoring, built during an Engineering Analyst Internship at Visakhapatnam Steel Plant. [[GitHub]](https://github.com/Alpha-Beta-810/DelayOps-v1.3)
+
+- **📊 Built equipment/sub-equipment drill-down filtering with dynamic unassigned-time alerts**
+- **🗄️ Replaced static demo data with a database-driven module backed by MySQL**
+- **🔌 Served paginated, searchable data tables via REST API endpoints**
+
+**Tech Stack:** `PHP (Laravel)` `MySQL` `Tailwind CSS` `JavaScript (Vite)`
 
 ### <img src="https://github.com/user-attachments/assets/ed86026d-6c9d-4fc3-b324-b58defa239de" width="25px"> Simple RAG Service for Website Q&A (2026)
 
-This project is a simple, self-contained Retrieval-Augmented Generation (RAG) service. Given a starting URL, it crawls a website, indexes its content, and answers questions strictly based on the information it has collected, providing citations for its answers.
+This project is a simple, self-contained Retrieval-Augmented Generation (RAG) service. Given a starting URL, it crawls a website, indexes its content, and answers questions strictly based on the information it has collected, providing citations for its answers. [[GitHub]](https://github.com/Alpha-Beta-810/Konduit_SDE-Intern-Take_Home_Round_1_Assignment)
 
 <img 
   src="https://github.com/user-attachments/assets/b552a692-091d-441d-bc71-ccb3fae66a0d" 
@@ -118,53 +145,7 @@ This project is a simple, self-contained Retrieval-Augmented Generation (RAG) se
 - **🌐 Integrated a local Llama 3 model via Ollama, applying strict prompt engineering guardrails**
 - **☁️ Optimized Data Ingestion & Retrieval.**
 
-**Tech Stack:** `n8n` `OpenAI (LLMs)` `PostgreSQL` `REST APIs` `Webhooks` `Workflow Automation` `Event-driven Architecture` 
-
-### 🌫️ Pollution Predictor (2025) 
-
-A Machine Learning Model forecasting air quality  
-
-<img src="https://github.com/user-attachments/assets/4182585e-dbc2-4283-8a4a-a5785a50de41" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
-
-- 🏗️ **Designed and deployed a machine learning-powered web application for real-time air quality forecasting, addressing rising concerns over public health and climate change..**  
-- 📊 **Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models, enabling accurate future pollution predictions.**  
-- ⚡ **Integrated TensorFlow.js for seamless browser-based real-time inference, ensuring fast, accessible, and scalable deployment.**
-  
-**Tech Stack:** `TensorFlow.js` `Python` `JupyterNotebook` `Keras` `Pandas` `Deep Neural Networks` 
-
-### 🧬 Pedigree Chart Inheritance Predictor (2025)
-TensorFlow-Powered Machine Learning Model for Classifying Pedigree Charts into Autosomal Dominant, Autosomal Recessive, X-Linked Dominant, X-Linked Recessive Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
-
-<img src="https://github.com/user-attachments/assets/ce676ac9-ac9e-4e96-8c37-abd7ecded036" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
-
-- 🛠️ **Built a custom pedigree chart dataset modeling autosomal dominant/recessive, X-linked dominant/recessive, and Ylinked dominant/recessive inheritance patterns.**
-- 📈 **Trained and optimized a TensorFlow classification model with preprocessing, normalization, and one-hot encoding ,using the Adam optimizer for faster convergence.**  
-- 🎯 **Applied hyperparameter tuning and cross-validation, achieving 94% accuracy in predicting inheritance patterns on unseen data.**
-  
-**Tech Stack:** `TensorFlow.js` `Python` `JupyterNotebook` `Keras` `Pandas` `Convolutional Neural Networks` 
-
-### 🏥 Medisure Health Flutter Application (2024)
-A Flutter app for IoT based Arduino nano non-invasive device for comprehensive blood glucose monitoring.
-
-<img align="right" src="https://github.com/user-attachments/assets/b74aebe3-b068-4b33-84a3-1488b0b525c7" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
-
-- 📱 **Developed an end-to-end industrial IoT health monitoring app using Flutter/Dart with Firebase for real-time sync.**
-- </> **Applied Concepts of Software Engineering Like SDLC Prototype Model in development, achieving 95% alignment with objectives and improving development efficiency by 40% through iterative prototype refinement.**  
-- ⚡ **Conducted performance optimization tests, improving system efficiency by 30%.**
-
-**Tech Stack:** `Flutter` `Dart` `Software Engineering` `Google Firebase` `Firestone` `RestAPI`  
-
-### 🍽️ Date Night Dine (2024)
-Flutter app for table reservation database management
-
-
-<img src="https://github.com/user-attachments/assets/84a06f73-fc8b-441a-9181-ad3c42ee75a6" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
-
-- 📱 **Developed a cross-platform mobile application using Flutter and Dart, integrating Firebase for real time data synchronization and authentication, which enhanced user engagement by 30%.**
-- 🎨 **Designed intuitive UI/UX for Table reservation based mobile app, resulting in 25 % increase in user satisfaction and a 20 % reduction in user churn.**  
-- 🔗 **Implemented REST APIs for seamless communication between mobile app and Backend services, reducing data retrieval time by 50 %.**
-
-**Tech Stack:** `Flutter` `Dart` `JSON` `Google Firebase` `Firestone` `RestAPI`  
+**Tech Stack:** `Python` `FastAPI` `Scrapy` `ChromaDB` `Sentence Transformers` `Ollama (Llama 3)`
 
 ## 🎓 Education 
 <img src="https://github.com/user-attachments/assets/4e61b482-4888-4749-9670-f0cebd7b372f" alt="Manipal University Logo" width="200" align="right"/>
@@ -233,6 +214,5 @@ Flutter app for table reservation database management
 
 
 ---
-
 
 

@@ -52,38 +52,18 @@
 
 ## 💼 Professional Experience
 
-### Operations Associate Intern
-[Amazon](https://www.amazon.com/) Jan 2026- Jun 2026
-- Worked with large-scale internal Amazon systems and operational tools to validate, audit, and process high-volume transactional data, ensuring accuracy, compliance, and system integrity across workflows.
-- Performed root-cause analysis on data mismatches and system-generated exceptions by analyzing logs, reports, and rule-based outputs, contributing to process optimization and defect reduction.
-- Utilized automation-driven workflows, dashboards, and rule engines to monitor operational KPIs, detect anomalies, and support data-backed decision making for business stakeholders.
-
-### AI/ML MLOps Intern(US)
-[Xcitium / Comodo Cybersecurity Solutions](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
-- Built data-driven trading intelligence models leveraging market microstructure gamma-exposure analytics.
-- Improved trade-outcome prediction accuracy by 30% through optimized ML pipelines and semantically rich
-composite features.
-- Automated an oscillator-based signal-detection framework, achieving 5× faster feature extraction.
-- Collaborated with research leads to integrate structural and statistical indicators into production-grade models.
-
 ### Cybersecurity Intern
-[CSIR – Fourth Paradigm Institute](https://www.csir4pi.res.in/)  Feb 2026 – May 2026 
+💼 [CSIR – Fourth Paradigm Institute](https://www.csir4pi.res.in/)  Feb 2026 – May 2026 
 - Built a Django-based research/internship application portal (N.S.W.-v7.0) with Role-Based Access Control for applicant review workflows.
 - Implemented server-side validation, secure resume uploads, and automated PDF/CSV report generation for admins.
 
-### Engineering Analyst Intern
-[DRDL, DRDO](https://www.drdo.gov.in/)  Jun 2025 – Jul 2025 
+### Cybersecurity Intern
+🛡️[DRDL, DRDO](https://www.drdo.gov.in/)  Jun 2025 – Jul 2025 
 - Developed a hybrid phishing detection pipeline (PhishGuard-v6.2) combining a calibrated Scikit-learn classifier with VirusTotal/WHOIS threat intelligence and email/visual-similarity checks.
 - Validated model performance across a 27-case test suite, documenting precision and recall results for internal review.
 
-### Software Developer Intern  
-[JPMorgan Chase](https://www.jpmorganchase.com/)  Jun 2024 – Jul 2024 
-- 🌐 **HTTP Request Tracking:** Tracked and logged HTTP requests and responses (URLs, headers, payloads) into a secure **MySQL database** using **Java & Spring Boot**.  
-- 📊 **Data Visualization Dashboard:** Created a web dashboard with **Chart.js**, displaying metrics such as number of requests per domain and total data size transferred.  
-- 🔐 **Security & Authentication:** Implemented **user authentication** and **data encryption** with **Spring Security** to ensure privacy and controlled dashboard access.
-
-### Engineering Analyst Intern
-[Visakhapatnam Steel Plant](https://www.vizagsteel.com/)  Jun 2024 – Jul 2024 
+### Full Stack Intern
+⚡[Visakhapatnam Steel Plant](https://www.vizagsteel.com/)  Jun 2024 – Jul 2024 
 - Built a Laravel-based delay analytics dashboard (DelayOps-v1.3) with drill-down filtering to monitor downtime events.
 - Designed MySQL schemas and API-served, paginated tables for high-volume operational log reporting.
 

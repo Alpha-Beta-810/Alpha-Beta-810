@@ -134,7 +134,7 @@ A Laravel-based operations dashboard for delay monitoring, built during an Engin
 
 **Tech Stack:** `PHP (Laravel)` `MySQL` `Tailwind CSS` `JavaScript (Vite)`
 
-### <img src="https://github.com/user-attachments/assets/ed86026d-6c9d-4fc3-b324-b58defa239de" width="25px"> Simple RAG Service for Website Q&A (2026)
+<!-- ### <img src="https://github.com/user-attachments/assets/ed86026d-6c9d-4fc3-b324-b58defa239de" width="25px"> Simple RAG Service for Website Q&A (2026)
 
 This project is a simple, self-contained Retrieval-Augmented Generation (RAG) service. Given a starting URL, it crawls a website, indexes its content, and answers questions strictly based on the information it has collected, providing citations for its answers. [[GitHub]](https://github.com/Alpha-Beta-810/Konduit_SDE-Intern-Take_Home_Round_1_Assignment)
 
@@ -150,7 +150,7 @@ This project is a simple, self-contained Retrieval-Augmented Generation (RAG) se
 - **🌐 Integrated a local Llama 3 model via Ollama, applying strict prompt engineering guardrails**
 - **☁️ Optimized Data Ingestion & Retrieval.**
 
-**Tech Stack:** `Python` `FastAPI` `Scrapy` `ChromaDB` `Sentence Transformers` `Ollama (Llama 3)`
+**Tech Stack:** `Python` `FastAPI` `Scrapy` `ChromaDB` `Sentence Transformers` `Ollama (Llama 3)` -->
 
 ## 🎓 Education 
 <img src="https://github.com/user-attachments/assets/4e61b482-4888-4749-9670-f0cebd7b372f" alt="Manipal University Logo" width="200" align="right"/>

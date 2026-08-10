@@ -82,7 +82,7 @@
 
 <!-- Visakhapatnam Steel Plant -->
 <div>
-  <img src="https://www.uniflow.in/wp-content/uploads/2021/10/3-26.jpg" align="right" width="96" alt="Visakhapatnam Steel Plant" />
+  <img src="https://5.imimg.com/data5/SELLER/Default/2022/7/AR/NF/NZ/76347547/vizag-tmt-bar-1000x1000.png" align="right" width="96" alt="Visakhapatnam Steel Plant" />
   <h3 style="margin:0;">Full Stack Intern</h3>
   <a href="https://www.vizagsteel.com/">Visakhapatnam Steel Plant</a> &nbsp;&nbsp;&nbsp; Jun 2024 – Jul 2024
 </div>

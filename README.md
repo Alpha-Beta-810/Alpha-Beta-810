@@ -55,7 +55,7 @@
 <!-- CSIR -->
 <div>
   <img src="https://csir4pi.res.in/~senthil/New-4PI-logo_Png-format.png" align="right" width="150" alt="CSIR" />
-  <h3 style="margin:0;">💼 Cybersecurity Intern</h3>
+  <h3 style="margin:0;">🗃️ Web-development Intern</h3>
   <a href="https://www.csir4pi.res.in/">CSIR – Fourth Paradigm Institute</a> &nbsp;&nbsp;&nbsp; Feb 2026 – May 2026
 </div>
 
@@ -94,7 +94,7 @@
 
 ## 🔧 Featured Projects  
 
-### 💼 N.S.W. – Research & Internship Application Portal (2026)
+### 🗃️ N.S.W. – Research & Internship Application Portal (2026)
 
 A Django-based portal for managing academic internship and thesis applications, built during a Cybersecurity Internship at CSIR – Fourth Paradigm Institute. [[GitHub]](https://github.com/Alpha-Beta-810/N.S.W.-v7.0)
 

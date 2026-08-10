@@ -52,64 +52,45 @@
 
 ## 💼 Professional Experience
 
-<div style="display: flex; flex-direction: column; gap: 16px; width: 100%;">
-
-  <!-- CSIR -->
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div>
-      <h3 style="margin: 0 0 4px 0;">Cybersecurity Intern</h3>
-      <a href="https://www.csir4pi.res.in/">CSIR – Fourth Paradigm Institute</a> &nbsp;&nbsp;&nbsp; Feb 2026 – May 2026
-    </div>
-    <div style="margin-left: auto;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CSIR-Logo-With-Tagline-Seleceted-Bilingual.png/960px-CSIR-Logo-With-Tagline-Seleceted-Bilingual.png" alt="CSIR" width="48" style="display: block;" />
-    </div>
-  </div>
-
-  <ul>
-    <li>Built a Django-based research/internship application portal (N.S.W.-v7.0) with Role-Based Access Control for applicant review workflows.</li>
-    <li>Implemented server-side validation, secure resume uploads, and automated PDF/CSV report generation for admins.</li>
-  </ul>
-
-  <!-- DRDL -->
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div>
-      <h3 style="margin: 0 0 4px 0;">Cybersecurity Intern</h3>
-      <a href="https://www.drdo.gov.in/">DRDL, DRDO</a> &nbsp;&nbsp;&nbsp; Jun 2025 – Jul 2025
-    </div>
-    <div style="margin-left: auto;">
-      <img src="REPLACE_WITH_DRDL_URL" alt="DRDL" width="48" style="display: block;" />
-    </div>
-  </div>
-
-  <ul>
-    <li>Developed a hybrid phishing detection pipeline (PhishGuard-v6.2) combining a calibrated Scikit-learn classifier with VirusTotal/WHOIS threat intelligence and email/visual-similarity checks.</li>
-    <li>Validated model performance across a 27-case test suite, documenting precision and recall results for internal review.</li>
-  </ul>
-
-  <!-- Visakhapatnam Steel Plant -->
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div>
-      <h3 style="margin: 0 0 4px 0;">Full Stack Intern</h3>
-      <a href="https://www.vizagsteel.com/">Visakhapatnam Steel Plant</a> &nbsp;&nbsp;&nbsp; Jun 2024 – Jul 2024
-    </div>
-    <div style="margin-left: auto;">
-      <img src="https://www.seekpng.com/png/detail/271-2710096_vizag-steel-plant-visakhapatnam-vizag-steel-logo-png.png" alt="Visakhapatnam Steel Plant" width="48" style="display: block;" />
-    </div>
-  </div>
-
-  <ul>
-    <li>Built a Laravel-based delay analytics dashboard (DelayOps-v1.3) with drill-down filtering to monitor downtime events.</li>
-    <li>Designed MySQL schemas and API-served, paginated tables for high-volume operational log reporting.</li>
-  </ul>
-
+<!-- CSIR -->
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CSIR-Logo-With-Tagline-Seleceted-Bilingual.png/960px-CSIR-Logo-With-Tagline-Seleceted-Bilingual.png" align="right" width="48" alt="CSIR" />
+  <h3 style="margin:0;">Cybersecurity Intern</h3>
+  <a href="https://www.csir4pi.res.in/">CSIR – Fourth Paradigm Institute</a> &nbsp;&nbsp;&nbsp; Feb 2026 – May 2026
 </div>
 
-  <ul>
-    <li>Built a Laravel-based delay analytics dashboard (DelayOps-v1.3) with drill-down filtering to monitor downtime events.</li>
-    <li>Designed MySQL schemas and API-served, paginated tables for high-volume operational log reporting.</li>
-  </ul>
+<ul>
+  <li>Built a Django-based research/internship application portal (N.S.W.-v7.0) with Role-Based Access Control for applicant review workflows.</li>
+  <li>Implemented server-side validation, secure resume uploads, and automated PDF/CSV report generation for admins.</li>
+</ul>
 
+<br />
+
+<!-- DRDL -->
+<div>
+  <img src="REPLACE_WITH_DRDL_URL" align="right" width="48" alt="DRDL" />
+  <h3 style="margin:0;">Cybersecurity Intern</h3>
+  <a href="https://www.drdo.gov.in/">DRDL, DRDO</a> &nbsp;&nbsp;&nbsp; Jun 2025 – Jul 2025
 </div>
+
+<ul>
+  <li>Developed a hybrid phishing detection pipeline (PhishGuard-v6.2) combining a calibrated Scikit-learn classifier with VirusTotal/WHOIS threat intelligence and email/visual-similarity checks.</li>
+  <li>Validated model performance across a 27-case test suite, documenting precision and recall results for internal review.</li>
+</ul>
+
+<br />
+
+<!-- Visakhapatnam Steel Plant -->
+<div>
+  <img src="https://www.seekpng.com/png/detail/271-2710096_vizag-steel-plant-visakhapatnam-vizag-steel-logo-png.png" align="right" width="48" alt="Visakhapatnam Steel Plant" />
+  <h3 style="margin:0;">Full Stack Intern</h3>
+  <a href="https://www.vizagsteel.com/">Visakhapatnam Steel Plant</a> &nbsp;&nbsp;&nbsp; Jun 2024 – Jul 2024
+</div>
+
+<ul>
+  <li>Built a Laravel-based delay analytics dashboard (DelayOps-v1.3) with drill-down filtering to monitor downtime events.</li>
+  <li>Designed MySQL schemas and API-served, paginated tables for high-volume operational log reporting.</li>
+</ul>
 
 ## 🔧 Featured Projects  
 

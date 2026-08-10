@@ -68,7 +68,7 @@
 
 <!-- DRDL -->
 <div>
-  <img src="https://media.9curry.com/uploads/organization/image/3090/drdl-drdo-logo.png" align="right" width="150" alt="DRDL" />
+  <img src="https://media.9curry.com/uploads/organization/image/3090/drdl-drdo-logo.png" align="right" width="130" alt="DRDL" />
   <h3 style="margin:0;">🛡️ Cybersecurity Intern</h3>
   <a href="https://www.drdo.gov.in/">DRDL, DRDO</a> &nbsp;&nbsp;&nbsp; Jun 2025 – Jul 2025
 </div>

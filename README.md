@@ -104,7 +104,7 @@ A Django-based portal for managing academic internship and thesis applications, 
 
 **Tech Stack:** `Python` `Django` `SQLite` `PostgreSQL` `Bootstrap 5` `ReportLab`
 
-### 🔍 MailGlass – Hybrid Phishing Email Detection System (2026)
+### 🔍 MailGlass – Hybrid Phishing Email Detection System (2025)
 
 An AI-powered email threat-analysis platform combining blacklist-based checks (whitelist, PhishTank, VirusTotal) with an ML fallback classifier and domain intelligence. [[GitHub]](https://github.com/Alpha-Beta-810/MailGlass-v3.1)
 

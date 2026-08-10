@@ -136,7 +136,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVzbm02dGR2Z2N2ZWFqNjhib
 A Laravel-based operations dashboard for delay monitoring, built during an Engineering Analyst Internship at Visakhapatnam Steel Plant. [[GitHub]](https://github.com/Alpha-Beta-810/DelayOps-v1.3)
 
 <img 
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno2eGJwd3pkbmEyZjJjbmpubjNqOXJscDU2OXRkbnNnbGg3bmVpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUOxeZUc8UFwMgH2MM/200w.webp" height="150" align="right" width="240" alt="Animated Graphic" />
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno2eGJwd3pkbmEyZjJjbmpubjNqOXJscDU2OXRkbnNnbGg3bmVpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUOxeZUc8UFwMgH2MM/200w.webp" height="250" align="right" width="240" alt="Animated Graphic" />
 
 - **📊 Built equipment/sub-equipment drill-down filtering with dynamic unassigned-time alerts**
 - **🗄️ Replaced static demo data with a database-driven module backed by MySQL**

@@ -173,12 +173,12 @@ This project is a simple, self-contained Retrieval-Augmented Generation (RAG) se
   - Parallel Computing
   - Blockchain Technology
 
-## 📝 Publications
+<!--## 📝 Publications
 - **Pollution Predictor** : A machine Learning Model For Forecasting Air Quality (Minor Project Publication )
 - **Medisure Type 2 Diabetes Predictor** (Undergoing)
 
 ## 💡 Patents
-- IN23/2404 **Application No. 202441091887** Device and method for monitoring blood parameters of a user (Early Publication available)
+- IN23/2404 **Application No. 202441091887** Device and method for monitoring blood parameters of a user (Early Publication available)-->
 
 ## 📈 GitHub Stats & Activity  
 

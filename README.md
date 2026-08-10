@@ -110,6 +110,8 @@ A Django-based portal for managing academic internship and thesis applications, 
 
 An AI-powered email threat-analysis platform combining blacklist-based checks (whitelist, PhishTank, VirusTotal) with an ML fallback classifier and domain intelligence. [[GitHub]](https://github.com/Alpha-Beta-810/MailGlass-v3.1)
 
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF2bHoyemJuaTFkbG9tandnZTNkcWRiaDF5MjhpZm02dTd2ZmlpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378rhA6c1QhJDgbu/giphy.gif" align="right" width="240" alt="Animated Graphic" />
+
 - **🧠 Combined whitelist/PhishTank/VirusTotal blacklist checks with a Random Forest ML fallback classifier and a weighted, explainable risk score**
 - **🌍 Added WHOIS domain-age lookups plus IDN/homograph and typosquat detection for look-alike brand domains**
 - **📜 Introduced persistent SQLite scan history (v3.1) with a dashboard to browse, filter, and export past scans as CSV/JSON**

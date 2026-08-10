@@ -56,7 +56,7 @@
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CSIR-Logo-With-Tagline-Seleceted-Bilingual.png/960px-CSIR-Logo-With-Tagline-Seleceted-Bilingual.png" align="right" width="120" alt="CSIR" />
   <h3 style="margin:0;">Cybersecurity Intern</h3>
-  <a href="https://www.csir4pi.res.in/">CSIR – Fourth Paradigm Institute</a> &nbsp;&nbsp;&nbsp; Feb 2026 – May 2026
+  <a href="https://www.csir4pi.res.in/">💼 CSIR – Fourth Paradigm Institute</a> &nbsp;&nbsp;&nbsp; Feb 2026 – May 2026
 </div>
 
 <ul>
@@ -70,7 +70,7 @@
 <div>
   <img src="https://www.enggwave.com/wp-content/uploads/2015/10/DRDO-Logo.png" align="right" width="120" alt="DRDL" />
   <h3 style="margin:0;">Cybersecurity Intern</h3>
-  <a href="https://www.drdo.gov.in/">DRDL, DRDO</a> &nbsp;&nbsp;&nbsp; Jun 2025 – Jul 2025
+  <a href="https://www.drdo.gov.in/">🛡️ DRDL, DRDO</a> &nbsp;&nbsp;&nbsp; Jun 2025 – Jul 2025
 </div>
 
 <ul>
@@ -84,7 +84,7 @@
 <div>
   <img src="https://5.imimg.com/data5/SELLER/Default/2022/7/AR/NF/NZ/76347547/vizag-tmt-bar-1000x1000.png" align="right" width="120" alt="Visakhapatnam Steel Plant" />
   <h3 style="margin:0;">Full Stack Intern</h3>
-  <a href="https://www.vizagsteel.com/">Visakhapatnam Steel Plant</a> &nbsp;&nbsp;&nbsp; Jun 2024 – Jul 2024
+  <a href="https://www.vizagsteel.com/">⚡ Visakhapatnam Steel Plant</a> &nbsp;&nbsp;&nbsp; Jun 2024 – Jul 2024
 </div>
 
 <ul>

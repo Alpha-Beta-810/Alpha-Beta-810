@@ -68,7 +68,7 @@
 
 <!-- DRDL -->
 <div>
-  <img src="https://media.9curry.com/uploads/organization/image/3090/drdl-drdo-logo.png" align="right" width="170" alt="DRDL" />
+  <img src="https://media.9curry.com/uploads/organization/image/3090/drdl-drdo-logo.png" align="right" width="150" alt="DRDL" />
   <h3 style="margin:0;">🛡️ Cybersecurity Intern</h3>
   <a href="https://www.drdo.gov.in/">DRDL, DRDO</a> &nbsp;&nbsp;&nbsp; Jun 2025 – Jul 2025
 </div>
@@ -82,7 +82,7 @@
 
 <!-- Visakhapatnam Steel Plant -->
 <div>
-  <img src="https://5.imimg.com/data5/SELLER/Default/2022/7/AR/NF/NZ/76347547/vizag-tmt-bar-1000x1000.png" align="right" width="170" alt="Visakhapatnam Steel Plant" />
+  <img src="https://5.imimg.com/data5/SELLER/Default/2022/7/AR/NF/NZ/76347547/vizag-tmt-bar-1000x1000.png" align="right" width="180" alt="Visakhapatnam Steel Plant" />
   <h3 style="margin:0;">⚡ Full Stack Intern</h3>
   <a href="https://www.vizagsteel.com/">Visakhapatnam Steel Plant</a> &nbsp;&nbsp;&nbsp; Jun 2024 – Jul 2024
 </div>

@@ -54,7 +54,7 @@
 
 <!-- CSIR -->
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/CSIR-Logo-With-Tagline-Seleceted-Bilingual.png/960px-CSIR-Logo-With-Tagline-Seleceted-Bilingual.png" align="right" width="170" alt="CSIR" />
+  <img src="https://csir4pi.res.in/~senthil/New-4PI-logo_Png-format.png" align="right" width="150" alt="CSIR" />
   <h3 style="margin:0;">💼 Cybersecurity Intern</h3>
   <a href="https://www.csir4pi.res.in/">CSIR – Fourth Paradigm Institute</a> &nbsp;&nbsp;&nbsp; Feb 2026 – May 2026
 </div>

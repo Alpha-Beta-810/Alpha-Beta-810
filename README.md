@@ -120,6 +120,9 @@ An AI-powered email threat-analysis platform combining blacklist-based checks (w
 
 A hybrid threat-detection engine built during an Engineering Analyst Internship at DRDL, DRDO. [[GitHub]](https://github.com/Alpha-Beta-810/PhishGuard-v6.2)
 
+<img 
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVzbm02dGR2Z2N2ZWFqNjhibzkyMDRjaGdjeHJtZDA3a2xnMTR3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2i7jspnRBYgg6v4Oki/200w.webp" align="right" width="240" alt="Animated Graphic" />
+
 - **🧠 Combined a calibrated Random Forest classifier with live VirusTotal/WHOIS intelligence, plus email-scan and brand visual-similarity fingerprinting**
 - **✅ Validated against a 27-case test suite, achieving 100% detection on phishing/typosquat samples**
 - **🔌 Exposed REST endpoints for single, batch, and email analysis**

@@ -96,6 +96,13 @@
 
 ### 🗃️ N.S.W. – Research & Internship Application Portal (2026)
 
+<div>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzl1c3o0bW1pbHhvc3liOWxicXFseGE5b2xlMmZsNmp2bDY5ZDlteSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/896NyHxKgOwc8UoIar/200w.webp" align="right" width="60" alt="Animated Graphic" />
+  <h3 style="margin:0;">🗃️ N.S.W. – Research & Internship Application Portal (2026)</h3>
+</div>
+
+<br />
+
 A Django-based portal for managing academic internship and thesis applications, built during a Cybersecurity Internship at CSIR – Fourth Paradigm Institute. [[GitHub]](https://github.com/Alpha-Beta-810/N.S.W.-v7.0)
 
 - **🔐 Implemented Role-Based Access Control (RBAC) separating superadmin and reviewer permissions across the applicant review workflow**

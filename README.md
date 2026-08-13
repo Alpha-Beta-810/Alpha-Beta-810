@@ -190,14 +190,11 @@ This project is a simple, self-contained Retrieval-Augmented Generation (RAG) se
 
 ## 📈 GitHub Stats & Activity  
 
-### ⚡ GitHub Stats  
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alpha-Beta-810&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Beta-810&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
+ 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" width="100%" />
+</div>
 
 ### 📊 Contribution Graph  
 
@@ -205,17 +202,11 @@ This project is a simple, self-contained Retrieval-Augmented Generation (RAG) se
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha-Beta-810&theme=react-dark" alt="Contribution Graph" />
 </p>
 
----
-
 ### 🔥 GitHub Streaks  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-Beta-810&theme=radical" alt="GitHub Streak" />
 
-<a href="https://github.com/Alpha-Beta-810?tab=achievements" title="Pull Shark">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark">
-</a>
-<a href="https://github.com/Alpha-Beta-810?tab=achievements" title="Quickdraw">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw">
-</a>
+<p align="center">
+  <img height="280em" src="https://streak-stats.demolab.com?user=Alpha-Beta-810&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
 ---
 
 
